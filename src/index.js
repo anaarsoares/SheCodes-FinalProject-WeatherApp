@@ -93,4 +93,4 @@ forecastElement.innerHTML = forecastHtml;
 let searchFormElement = document.querySelector("#search-form");
 searchFormElement.addEventListener("submit",handleSearchSubmit);
 
-searchCity("Porto");
+searchCity("Valletta");
