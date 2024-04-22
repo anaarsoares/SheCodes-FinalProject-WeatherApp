@@ -69,6 +69,11 @@ main {
     font-size: 16px;
 }
 
+.search-form-button:hover {
+
+transform: scale(1.1);
+}
+
 .weather-data{
   display: flex;  
   justify-content: space-between;
@@ -116,6 +121,5 @@ font-size: 28px;
 .weather-forecast-icon {
     width: 88px;
     height: 88px;
-display: block;
-margin: 0 auto;
+
 }
